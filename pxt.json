@@ -1,0 +1,9 @@
+{
+  "name": "mesure-pile-1v5",
+  "version": "0.0.1",
+  "description": "Extension pour mesurer la tension d'une pile AA ou AAA (1,5 V) avec micro:bit",
+  "dependencies": { "core": "*" },
+  "files": [ "main.ts", "README.md" ],
+  "license": "MIT",
+  "public": true
+}
